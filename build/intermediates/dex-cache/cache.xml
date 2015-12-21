@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jingyaxie/Documents/androidworkspace/shoujilinquan 2/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3e4e879d0b3dc11f2feb3f55e77e3b5bd82c4a28">
+        <dex dex="/Users/jingyaxie/Documents/androidworkspace/shoujilinquan 2/build/intermediates/pre-dexed/debug/android-support-v4_4db6f1ed2f90457f342fdb42de44d327fa5665c7.jar" />
+    </item>
+    <item
+        jar="/Users/jingyaxie/Documents/androidworkspace/shoujilinquan 2/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6eb2ad28f67056a047f388d21f9961e7341dc145">
+        <dex dex="/Users/jingyaxie/Documents/androidworkspace/shoujilinquan 2/build/intermediates/pre-dexed/debug/instant-run_68124b4b6fd6cd969af6141afe5562eac83a634d.jar" />
+    </item>
+    <item
+        jar="/Users/jingyaxie/Documents/androidworkspace/shoujilinquan 2/build/intermediates/incremental-classes/debug/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e554f0d5eceba726fa5d603d6d436c61e6b279cb">
+        <dex dex="/Users/jingyaxie/Documents/androidworkspace/shoujilinquan 2/build/intermediates/pre-dexed/debug/classes_83ee8a438232849376cb0fc44cede74b80570975.jar" />
+    </item>
+
+</items>

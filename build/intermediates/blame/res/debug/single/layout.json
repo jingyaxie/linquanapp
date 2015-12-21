@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/jingyaxie/Documents/androidworkspace/shoujilinquan 2/build/intermediates/res/merged/debug/layout/webviewfragment.xml",
+        "source": "/Users/jingyaxie/Documents/androidworkspace/shoujilinquan 2/res/layout/webviewfragment.xml"
+    },
+    {
+        "merged": "/Users/jingyaxie/Documents/androidworkspace/shoujilinquan 2/build/intermediates/res/merged/debug/layout/activity_guide.xml",
+        "source": "/Users/jingyaxie/Documents/androidworkspace/shoujilinquan 2/res/layout/activity_guide.xml"
+    },
+    {
+        "merged": "/Users/jingyaxie/Documents/androidworkspace/shoujilinquan 2/build/intermediates/res/merged/debug/layout/custom_fragment.xml",
+        "source": "/Users/jingyaxie/Documents/androidworkspace/shoujilinquan 2/res/layout/custom_fragment.xml"
+    },
+    {
+        "merged": "/Users/jingyaxie/Documents/androidworkspace/shoujilinquan 2/build/intermediates/res/merged/debug/layout/no_data_layout.xml",
+        "source": "/Users/jingyaxie/Documents/androidworkspace/shoujilinquan 2/res/layout/no_data_layout.xml"
+    },
+    {
+        "merged": "/Users/jingyaxie/Documents/androidworkspace/shoujilinquan 2/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/jingyaxie/Documents/androidworkspace/shoujilinquan 2/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/jingyaxie/Documents/androidworkspace/shoujilinquan 2/build/intermediates/res/merged/debug/layout/common_activity.xml",
+        "source": "/Users/jingyaxie/Documents/androidworkspace/shoujilinquan 2/res/layout/common_activity.xml"
+    },
+    {
+        "merged": "/Users/jingyaxie/Documents/androidworkspace/shoujilinquan 2/build/intermediates/res/merged/debug/layout/activity_welcome.xml",
+        "source": "/Users/jingyaxie/Documents/androidworkspace/shoujilinquan 2/res/layout/activity_welcome.xml"
+    }
+]

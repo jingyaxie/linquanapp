@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="holo_blue_bright">#ff00ddff</color>
+    <color name="holo_blue_dark">#ff0099cc</color>
+    <color name="holo_blue_light">#ff33b5e5</color>
+    <color name="holo_green_dark">#ff669900</color>
+    <color name="holo_green_light">#ff99cc00</color>
+    <color name="holo_orange_dark">#ffff8800</color>
+    <color name="holo_orange_light">#ffffbb33</color>
+    <color name="holo_purple">#ffaa66cc</color>
+    <color name="holo_red_dark">#ffcc0000</color>
+    <color name="holo_red_light">#ffff4444</color>
+    <color name="tab_text_normal">#363636</color>
+    <color name="tab_text_selected">#CD2626</color>
+    <string name="app_name">手机临泉</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="strPoint">小圆点</string>
+    <string name="strWelLogo">欢迎Logo</string>
+    <string name="strWelcomeToMain">欢迎来到主页</string>
+    <style mce_bogus="1" name="AnimationActivity" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/activity_open_enter</item>
+        <item name="android:activityOpenExitAnimation">@anim/activity_open_exit</item>
+        <item name="android:activityCloseEnterAnimation">@anim/activity_close_enter</item>
+        <item name="android:activityCloseExitAnimation">@anim/activity_close_exit</item>
+        <item name="android:taskOpenEnterAnimation">@anim/activity_open_enter</item>
+        <item name="android:taskOpenExitAnimation">@anim/activity_open_exit</item>
+        <item name="android:taskCloseEnterAnimation">@anim/activity_close_enter</item>
+        <item name="android:taskCloseExitAnimation">@anim/activity_close_exit</item>
+        <item name="android:taskToFrontEnterAnimation">@anim/activity_open_enter</item>
+        <item name="android:taskToFrontExitAnimation">@anim/activity_open_exit</item>
+        <item name="android:taskToBackEnterAnimation">@anim/activity_close_enter</item>
+        <item name="android:taskToBackExitAnimation">@anim/activity_close_exit</item>
+    </style>
+    <style name="AppTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style mce_bogus="1" name="ThemeActivity">
+        <item name="android:windowAnimationStyle">@style/AnimationActivity</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>
